@@ -11,7 +11,7 @@ CryptoPad is a digital version of a notepad where a person can add notes.
 
 ## Screenshots
 
-![](images/main.jpg)  ![](images/add.jpg)  ![](images/main2.jpg)  ![](images/delete.jpg)
+![](images/main.jpg)
 
 #### Get In Touch
 [![shields.io](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fshafiunmiraz0)](https://twitter.com/shafiunmiraz0)
