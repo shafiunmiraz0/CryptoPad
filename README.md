@@ -11,7 +11,7 @@ CryptoPad is a digital version of a notepad where a person can add notes.
 ## Install
 [![shields.io](https://img.shields.io/badge/Android-APK-blueviolet)](https://github.com/shafiunmiraz0/CryptoPad/raw/master/APK/app-debug.apk)
 
-## Screenshots
+## Screens
 
 ![](images/main.jpg) ![](images/add.jpg)
 ![](images/main2.jpg) ![](images/delete.jpg)
