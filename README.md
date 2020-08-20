@@ -3,6 +3,7 @@ CryptoPad is a digital version of a notepad where a person can add notes.
 
 [![shields.io](https://img.shields.io/badge/Developer-shafiunmiraz0-yellow)](https://www.upwork.com/o/profiles/users/~01403a10ba0dff5635/)
 [![GitHub license](https://img.shields.io/hexpm/l/Apa)](https://github.com/shafiunmiraz0/CryptoPad/blob/master/LICENSE)
+
 [![Realm](https://img.shields.io/badge/Database-Realm-39477F?style=plastic&logo=realm)](https://realm.io/)
 
 
