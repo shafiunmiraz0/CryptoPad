@@ -7,7 +7,7 @@ CryptoPad is a digital version of a notepad where a person can add notes.
 [![Realm](https://img.shields.io/badge/Database-Realm-39477F?style=plastic&logo=realm)](https://realm.io/)
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://android.com)
+[![Android](https://img.shields.io/badge/Made%20for-Android-3DDC84?style=for-the-badge&logo=android)](https://android.com)
 
 
 ## Install
